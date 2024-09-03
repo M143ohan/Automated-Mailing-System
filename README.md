@@ -3,6 +3,7 @@
 Python based Source code for an automated mailing system capable of sending customized bulk emails to varied recepients Minimum Requirements to run the script:
 
 A Python IDE
+
 Internet Connectivity.
 # Installation Guide:
 Install the following packages using pip install:
